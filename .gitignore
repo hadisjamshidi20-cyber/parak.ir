@@ -1,2 +1,7 @@
 .claude/settings.local.json
 .claude/scheduled_tasks.lock
+
+.env
+.env.local
+.env*.local
+node_modules/
